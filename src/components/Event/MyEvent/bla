@@ -1,0 +1,17 @@
+// const aggree = window.confirm('Are You Sure Want To Delete');
+        // if(aggree){
+        //     // alert(_id)
+        //     axios.delete(`https://afternoon-castle-32125.herokuapp.com/order/${_id}`)
+        //     .then( res => {
+        //         if(res){
+        //             console.log(res.status === 200);
+        //             // setEvent({});
+        //             // window.location.reload();
+        //             // setIsRemove(true)
+        //             const currentOrders = orders.filter( order => order._id !== _id);
+        //             setOrders(currentOrders);
+        //         }
+        //     })
+        // }else{
+
+        // }

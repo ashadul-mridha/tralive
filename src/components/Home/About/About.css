@@ -1,0 +1,24 @@
+.about-section h1{
+
+    color: #00095e;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1px;
+    line-height: 1.2;
+
+}
+
+.about-section  .btn-regular{
+    
+    background-image: linear-gradient(#FFC800 , #ffbb00);
+    padding: 15px 30px;
+    color: #ffffff;
+    border: 0px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.about-section  h5{
+    line-height: 1.5;
+}
